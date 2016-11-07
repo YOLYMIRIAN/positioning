@@ -7,14 +7,15 @@ body{
   	height:200px;
   	width:200px;
   	background-color: #ee3e64;
-  	position: static;
+  	position: relative;
   	}
 
   .dos {
   	height: 200px;
   	width: 200px;
   	background-color: #44accf;
-  	position: static;
+  	position: relative;
+      left: 200px;
   	
   }
 
@@ -22,5 +23,5 @@ body{
   	height: 200px;
   	width: 200px;
   	background-color: #b7d84b;
-  	position: static;
+  	position: relative;
 }
